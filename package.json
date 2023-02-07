@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "json-server": "^0.17.1"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "zoomcarapi",
+  "description": "API for Zoom Car Clone Site",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ramanpreet4718/ZoomCarAPI.git"
+  },
+  "author": "Ramanpreet Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ramanpreet4718/ZoomCarAPI/issues"
+  },
+  "homepage": "https://github.com/Ramanpreet4718/ZoomCarAPI#readme"
 }
