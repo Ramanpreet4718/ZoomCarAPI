@@ -5966,25 +5966,6 @@
          },
          "banner":false,
          "id":75
-      },
-      {
-         "type":"NOTIFY_ME",
-         "notify_me_data":{
-            "header":"Can't Find The Right Car",
-            "sub_header":"The car I was looking for isn't listed here",
-            "image":"https://img1.zoomcar.com/images/original/9cb4c0cb2f3656a765db302650c5f867bb31e06a.png?1594715157",
-            "cta_text":"NOTIFY ME",
-            "notify_me_header":"What car were you looking for?",
-            "car_types":[
-               "hatchback",
-               "Sedan",
-               "SUV"
-            ],
-            "placeholder_text":"Can't Find The Right Car",
-            "notify_me_cta_text":"SUBMIT"
-         },
-         "banner":false,
-         "id":76
       }
    ]
 }
